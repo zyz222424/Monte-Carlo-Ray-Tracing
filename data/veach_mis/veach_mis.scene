@@ -1,0 +1,14 @@
+obj veach_mis.obj
+resultdir result/veach_mis
+resultwidth 768
+resultheight 512
+resultfov 28
+lookat 0 -2 2.5
+lookfrom 0 2 15
+cameraupdirection 0 1 0
+focusdist 0
+aperture 0
+maxiterationdepthforray 20
+myiterate 100
+sceneambient 0.2 0.2 0.2
+externallightillumination 0

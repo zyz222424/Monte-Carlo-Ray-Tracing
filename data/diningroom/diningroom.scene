@@ -1,0 +1,14 @@
+obj diningroom.obj
+resultdir result/diningroom
+resultwidth 1280
+resultheight 720
+resultfov 60
+lookat -0.5 2 0
+lookfrom -0.5 3 3
+cameraupdirection 0 1 0
+focusdist 0
+aperture 0
+maxiterationdepthforray 20
+myiterate 500
+sceneambient 0.2 0.2 0.2
+externallightillumination 0

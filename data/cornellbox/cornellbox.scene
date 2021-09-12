@@ -1,0 +1,14 @@
+obj cornellbox.obj
+resultdir result/conrnellbox
+resultwidth 512
+resultheight 512
+resultfov 39.3077
+lookat 278 273 -799
+lookfrom 278 273 -800
+cameraupdirection 0 1 0
+focusdist 0
+aperture 0
+maxiterationdepthforray 50
+myiterate 500
+sceneambient 0.2 0.2 0.2
+externallightillumination 0
