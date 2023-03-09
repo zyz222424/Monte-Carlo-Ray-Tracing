@@ -1,5 +1,5 @@
 # Monte Carlo Path Tracing
-计算机图形学作业二，Monte Carlo Path Tracing
+
 1. ## 内容及要求
 
    - 实现蒙特卡洛光线追踪算法
